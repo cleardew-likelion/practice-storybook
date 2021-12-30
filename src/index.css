@@ -1034,3 +1034,7 @@ a:focus {
   padding: 20px;
   border-radius: 10px;
 }
+
+.main-title {
+  font-weight: bold;
+}
