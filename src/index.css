@@ -1016,3 +1016,21 @@ a:focus {
   vertical-align: top;
   max-width: 100%;
 }
+
+.add-btn {
+  padding: 10px;
+  border-radius: 10px;
+  color: white;
+  font-weight: 800;
+  background: pink;
+}
+
+.create-form {
+  display: flex;
+  flex-direction: column;
+  max-width: 400px;
+  gap: 10px;
+  background-color: lightblue;
+  padding: 20px;
+  border-radius: 10px;
+}
